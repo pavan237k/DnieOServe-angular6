@@ -1,5 +1,13 @@
 # DineOServe
 
+Note : install with admin
+Step 1: install angular cli
+    npm install -g  @angular/cli
+Step 2:run command.
+    npm install
+Step 3: ng serve -o (to check in browser)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
 ## Development server

@@ -7,6 +7,11 @@ Step 2:run command.
     npm install
 Step 3: ng serve -o (to check in browser)
 
+step 4: to create new page (components):
+      ng generate component  (name of the file )
+      ex : ng generate component header
+      it will create 4 files in header folder in app folder.  
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
